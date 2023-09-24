@@ -1,0 +1,10 @@
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\chaptcha\chaptcha\bin\Debug\chaptcha.exe.config
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\chaptcha\chaptcha\bin\Debug\chaptcha.exe
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\chaptcha\chaptcha\bin\Debug\chaptcha.pdb
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\chaptcha\chaptcha\obj\Debug\chaptcha.csproj.AssemblyReference.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\chaptcha\chaptcha\obj\Debug\chaptcha.Form1.resources
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\chaptcha\chaptcha\obj\Debug\chaptcha.Properties.Resources.resources
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\chaptcha\chaptcha\obj\Debug\chaptcha.csproj.GenerateResource.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\chaptcha\chaptcha\obj\Debug\chaptcha.csproj.CoreCompileInputs.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\chaptcha\chaptcha\obj\Debug\chaptcha.exe
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\chaptcha\chaptcha\obj\Debug\chaptcha.pdb
